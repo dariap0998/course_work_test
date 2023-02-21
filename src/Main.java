@@ -10,4 +10,4 @@ public class Main {
         int a = square(10);
         System.out.println(a);
     }
- }
+}
